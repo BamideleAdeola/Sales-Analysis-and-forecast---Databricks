@@ -1,0 +1,29 @@
+{
+  "rmse-2_test_data": {
+    "evaluator_class": "pyspark.ml.evaluation.RegressionEvaluator",
+    "params": {
+      "labelCol": "label",
+      "metricName": "rmse",
+      "predictionCol": "prediction",
+      "throughOrigin": false
+    }
+  },
+  "rmse-3_test_data": {
+    "evaluator_class": "pyspark.ml.evaluation.RegressionEvaluator",
+    "params": {
+      "labelCol": "label",
+      "metricName": "rmse",
+      "predictionCol": "prediction",
+      "throughOrigin": false
+    }
+  },
+  "rmse_test_data": {
+    "evaluator_class": "pyspark.ml.evaluation.RegressionEvaluator",
+    "params": {
+      "labelCol": "label",
+      "metricName": "rmse",
+      "predictionCol": "prediction",
+      "throughOrigin": false
+    }
+  }
+}
