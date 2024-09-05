@@ -8,7 +8,7 @@ fake.py is a standalone, portable library designed for generating various random
 see https://pypi.org/project/fake.py/#:~:text=fake.py%20is%20a%20standalone,random%20data%20types%20for%20testing.
 
 #### Data Cleaning and Export:
-Jupyter Notebook using Python code was used to generate the data and clean it accordingly then the data was exported as a csv file. Better still one can also export as a parquet file.
+Jupyter Notebook using Python code was used to generate the data and clean it accordingly and then the data was exported as a csv file. Better still one can also export as a parquet file.
 
 #### Microsoft Fabric Lakehouse:
 I used the Microsoft Fabric trial version to do the following exercise: 
